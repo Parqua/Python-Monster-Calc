@@ -8,3 +8,7 @@ venv/Lib/site-packages/
 venv/Lib/tcl8\.6/
 
 venv/
+
+*.pyc
+
+crtable\.db
