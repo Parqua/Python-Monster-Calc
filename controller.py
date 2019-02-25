@@ -9,5 +9,4 @@ class Controller(object):
         self.creature = Creature()
         self.view = View(self.app, self.creature)
 
-    def run(self):
-        self.app.mainloop()
+
